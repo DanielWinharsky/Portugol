@@ -1,0 +1,102 @@
+programa {
+   cadeia nome="Kleito"
+   inteiro idade=15
+   cadeia cidade="Rio Negro"
+   cadeia estado="Paraná"
+   
+
+  funcao inicio() 
+    { 
+   
+
+
+
+
+    escreva(" Meu nome é ",nome,"\n")
+
+    escreva(" Tenho ",idade," anos de idade \n") 
+
+    escreva(" Atualmente resido na cidade de ",cidade,"\n")
+  
+  }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
